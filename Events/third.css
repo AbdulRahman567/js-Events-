@@ -1,0 +1,21 @@
+/* div{
+    height: 100px;
+    width: 100px;
+    color: black;
+    background-color:grey;
+    border: 2px solid red;
+    margin: 5px;
+} */
+
+/*           practice question          */
+.dark{
+    background-color: black;
+    color: skyblue;
+}
+.light{
+    background-color: skyblue;
+    color: black;
+}
+#cngMode{
+    text-align: center;
+}
